@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Edit));
             this.in_server = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.in_password = new System.Windows.Forms.TextBox();
@@ -236,6 +237,7 @@
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label10);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Edit";

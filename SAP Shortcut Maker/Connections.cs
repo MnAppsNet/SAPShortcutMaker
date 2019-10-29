@@ -57,9 +57,6 @@ namespace SAP_Shortcut_Maker
                     System.IO.File.SetAttributes(saveFile, System.IO.FileAttributes.Normal);
                 }
                 catch { }
-            }else
-            {
-                System.IO.File.Create(saveFile);
             }
             System.IO.StreamWriter writer = new System.IO.StreamWriter(saveFile, false, Encoding.UTF8);
             foreach (string s in items)
