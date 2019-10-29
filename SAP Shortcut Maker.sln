@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAP Shortcut Maker", "SAP Shortcut Maker\SAP Shortcut Maker.csproj", "{E9EDDFB2-8089-4845-92CE-1098E42B2083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9EDDFB2-8089-4845-92CE-1098E42B2083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EDDFB2-8089-4845-92CE-1098E42B2083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EDDFB2-8089-4845-92CE-1098E42B2083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EDDFB2-8089-4845-92CE-1098E42B2083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C542BA-AE6B-430F-921E-C437A5A193FB}
+	EndGlobalSection
+EndGlobal
